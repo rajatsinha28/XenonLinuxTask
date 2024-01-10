@@ -28,7 +28,8 @@ Steps:
 6. To see the version: ./internsctl.sh --version
 ![image](https://github.com/rajatsinha28/XenonLinuxTask/assets/89475456/24fcb433-564c-48c8-a20c-93564e529ffc)
 
-Displays version of command.
+
+#Section B
 
 ```bash
 internsctl cpu getinfo
@@ -38,7 +39,11 @@ Displays CPU information.
 ```bash
 internsctl memory getinfo
 ```
+![image](https://github.com/rajatsinha28/XenonLinuxTask/assets/89475456/a7a4a973-0ad2-4e63-ba0c-92124eef2beb)
+
 Displays memory information.
+
+#Part 2
 
 ```bash
 internsctl user create <username>
@@ -49,11 +54,13 @@ Creates a user with <username> as his username.
 internsctl user list
 ```
 Displays list of all regular users.
+![image](https://github.com/rajatsinha28/XenonLinuxTask/assets/89475456/4bcb6df0-1340-458f-8260-3012b204999d)
 
 ```bash
 internsctl user list --sudo-only
 ```
 Displays list of users with superuser access.
+![image](https://github.com/rajatsinha28/XenonLinuxTask/assets/89475456/7ecbabdc-81b3-4069-ac28-78383ee526cc)
 
 ```bash
 internsctl file getinfo <file-name>
