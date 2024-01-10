@@ -15,6 +15,19 @@ Shows format and options for this command along with usage.
 ```bash
 internsctl --version
 ```
+# Section A
+Steps:
+1. Create a file internsctl.sh
+2. write the mannual
+3. save the code with Ctrl+O
+4. Make the script executable using the following command:(man ./internsctl.sh
+)
+![image](https://github.com/rajatsinha28/XenonLinuxTask/assets/89475456/11ee80a2-9dc4-427e-be8a-f6e818313fd3)
+
+5. To see help message: ./internsctl.sh --help
+6. To see the version: ./internsctl.sh --version
+![image](https://github.com/rajatsinha28/XenonLinuxTask/assets/89475456/24fcb433-564c-48c8-a20c-93564e529ffc)
+
 Displays version of command.
 
 ```bash
